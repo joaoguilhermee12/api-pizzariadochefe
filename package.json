@@ -1,9 +1,9 @@
 {
-  "name": "tburguer",
+  "name": "pizzariadochefe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node index.js",
+    "start": "node src/router/index.js",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "bancojson": "json-server --watch db/db.json"
@@ -19,6 +19,6 @@
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
   },
-  "_id": "tburguer@0.1.0",
+  "_id": "pizzariadochefe@0.1.0",
   "readme": "ERROR: No README data found!"
 }
